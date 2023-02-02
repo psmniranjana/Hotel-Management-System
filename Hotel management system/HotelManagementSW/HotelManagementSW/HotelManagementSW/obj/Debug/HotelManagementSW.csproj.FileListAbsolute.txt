@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\bin\Debug\HotelManagementSW.exe.config
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\bin\Debug\HotelManagementSW.exe
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\bin\Debug\HotelManagementSW.pdb
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.Properties.Resources.resources
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.CopyComplete
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.exe
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.pdb
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.ClientForm.resources
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.ReservationForm.resources
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.RoomForm.resources
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.Dashboard.resources
+C:\Users\Admin\Desktop\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.LoginForm.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\bin\Debug\HotelManagementSW.exe.config
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\bin\Debug\HotelManagementSW.exe
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\bin\Debug\HotelManagementSW.pdb
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.ClientForm.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.LoginForm.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.Dashboard.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.ReservationForm.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.RoomForm.resources
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.exe
+C:\Users\Admin\Desktop\New folder\HotelManagementSW\HotelManagementSW\HotelManagementSW\obj\Debug\HotelManagementSW.pdb
